@@ -1,0 +1,215 @@
+{
+  "users": [
+    {
+      "username": "Borat1",
+      "passwordHash": "$2b$12$n6DTQxZqF2X.pJZWLhMXQ.YzaOyegTYfBS.Qb8LIcUqFRVs58hCvy",
+      "role": "admin",
+      "created": "2026-01-02T18:17:36.083Z",
+      "note": "Default admin created on first run"
+    },
+    {
+      "username": "Карамелька",
+      "passwordHash": "$2b$12$zTBT0fAb5.S6LpX6eTfluO3USeNFnwLNBlbdj7l7N9ou6ot6oAQZe",
+      "role": "user",
+      "created": "2026-01-02T18:17:47.349Z"
+    },
+    {
+      "username": "Карбас",
+      "passwordHash": "$2b$12$5ATRvxL7lQsguYaEWLSAMOs1P0XwnbLq3C94h/X4MExg.15HvYSp6",
+      "role": "user",
+      "email": "timokhink@yandex.ru",
+      "nickname": "Карбас",
+      "created": "2026-01-02T18:30:58.001Z"
+    }
+  ],
+  "logs": [
+    {
+      "time": "2026-01-02T18:17:36.084Z",
+      "user": "Borat1",
+      "action": "Default admin created",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:17:47.350Z",
+      "user": "Карамелька",
+      "action": "Signup success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:17:48.235Z",
+      "user": "Карамелька",
+      "action": "WS join",
+      "meta": {
+        "roomId": "STAK-1RV4K7",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:19:08.041Z",
+      "user": "Карамелька",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "STAK-1RV4K7",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:19:39.672Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:19:40.425Z",
+      "user": "Borat1",
+      "action": "WS join",
+      "meta": {
+        "roomId": "STAK-W2MUVO",
+        "socketId": "S2"
+      }
+    },
+    {
+      "time": "2026-01-02T18:20:39.086Z",
+      "user": "Borat1",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "STAK-W2MUVO",
+        "socketId": "S2"
+      }
+    },
+    {
+      "time": "2026-01-02T18:20:51.594Z",
+      "user": "Карамелька",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:20:52.304Z",
+      "user": "Карамелька",
+      "action": "WS join",
+      "meta": {
+        "roomId": "STAK-1RV4K7",
+        "socketId": "S3"
+      }
+    },
+    {
+      "time": "2026-01-02T18:20:53.633Z",
+      "user": "Карамелька",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "STAK-1RV4K7",
+        "socketId": "S3"
+      }
+    },
+    {
+      "time": "2026-01-02T18:30:58.003Z",
+      "user": "Карбас",
+      "action": "Signup success",
+      "meta": {
+        "email": "timokhink@yandex.ru"
+      }
+    },
+    {
+      "time": "2026-01-02T18:31:07.148Z",
+      "user": "Карбас",
+      "action": "WS join",
+      "meta": {
+        "roomId": "WEB-F9F0NY",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:31:10.731Z",
+      "user": "Карбас",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "WEB-F9F0NY",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:31:13.159Z",
+      "user": "Карамелька",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:31:44.311Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:31:56.327Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:32:03.922Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:32:11.611Z",
+      "user": "Borat1",
+      "action": "WS join",
+      "meta": {
+        "roomId": "WEB-F9F0NY",
+        "socketId": "S2"
+      }
+    },
+    {
+      "time": "2026-01-02T18:32:12.594Z",
+      "user": "Borat1",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "WEB-F9F0NY",
+        "socketId": "S2"
+      }
+    },
+    {
+      "time": "2026-01-02T18:32:14.948Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:32:25.131Z",
+      "user": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:46:09.803Z",
+      "actor": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    },
+    {
+      "time": "2026-01-02T18:46:19.012Z",
+      "actor": "Borat1",
+      "action": "WS join",
+      "meta": {
+        "roomId": "WEB-VQ24EO",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:46:21.247Z",
+      "actor": "Borat1",
+      "action": "WS leave",
+      "meta": {
+        "roomId": "WEB-VQ24EO",
+        "socketId": "S1"
+      }
+    },
+    {
+      "time": "2026-01-02T18:46:54.961Z",
+      "actor": "Borat1",
+      "action": "Login success",
+      "meta": {}
+    }
+  ]
+}
